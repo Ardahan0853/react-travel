@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/react-travel/static/css/main.89217de9.css",
+    "main.js": "/react-travel/static/js/main.a60548aa.js",
+    "static/media/Norway.jpg.jpg": "/react-travel/static/media/Norway.jpg.15ca32fcbd2c02a29ec9.jpg",
+    "static/media/Australia.jpg.jpg": "/react-travel/static/media/Australia.jpg.885c84212dddd303b4e9.jpg",
+    "static/media/Japan.jpg.jpg": "/react-travel/static/media/Japan.jpg.bdf298653a3e0e729211.jpg",
+    "index.html": "/react-travel/index.html",
+    "main.89217de9.css.map": "/react-travel/static/css/main.89217de9.css.map",
+    "main.a60548aa.js.map": "/react-travel/static/js/main.a60548aa.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.89217de9.css",
+    "static/js/main.a60548aa.js"
+  ]
+}
